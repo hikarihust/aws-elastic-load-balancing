@@ -1,0 +1,5 @@
+                                            AWS Elastic Load Balancing
+
+Application Load Balancer Lab Cân bằng tải cho hệ thống lớn
+    DNS name: web-load-balancer-1739408077.us-east-2.elb.amazonaws.com
+    
