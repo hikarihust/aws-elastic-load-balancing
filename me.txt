@@ -12,3 +12,5 @@ Lập trình giải pháp cho session với ElastiCache memcached
     Server 2: 
         get.php: echo "Get Server 2<br/>";
         set.php: echo "Set Server 2<br/>";
+Lập trình session với RDS/MySQL
+    
