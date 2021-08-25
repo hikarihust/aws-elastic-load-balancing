@@ -13,4 +13,6 @@ Lập trình giải pháp cho session với ElastiCache memcached
         get.php: echo "Get Server 2<br/>";
         set.php: echo "Set Server 2<br/>";
 Lập trình session với RDS/MySQL
+Lập trình giải pháp lưu trữ media như Image/Video S3 &AWS SDK
+    S3-AWS-SDK
     
